@@ -24,7 +24,5 @@ The project currently covers:
 ### Planned Cloud & DevOps Expansion
 
 - Containerize a custom application
-- Push container images to Amazon ECR
-- Deploy the application on Amazon EKS
 - Implement CI/CD with GitHub Actions
 - Perform cloud-based Kubernetes operations and troubleshooting
