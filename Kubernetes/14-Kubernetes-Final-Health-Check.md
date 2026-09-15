@@ -53,6 +53,4 @@ The local Kubernetes deployment workflow, including deployment, scaling, self-he
 
 ## Project Status
 
-The local Kubernetes phase of the project is complete.
-
-The next planned stage is to extend the project toward cloud-based Kubernetes operations using AWS ECR and Amazon EKS.
+Completed.
