@@ -98,6 +98,7 @@ Cloud Native Kubernetes Platform
 │   ├── 13-Kubernetes-Rollback.md
 │   ├── 14-Kubernetes-Final-Health-Check.md
 │   └── 15-Metrics-Server-and-HPA.md
+|   |__ 16-Kubernetes-Namespace-and-Dasboaed.md
 │
 └── Screenshots
     ├── 01-docker-version.png
