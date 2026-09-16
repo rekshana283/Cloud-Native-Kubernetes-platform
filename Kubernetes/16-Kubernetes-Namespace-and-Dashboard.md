@@ -6,13 +6,13 @@ An NGINX deployment was created inside the `dev` namespace and verified successf
 
 ### Namespace Deployment Proof
 
-![Kubernetes Namespace Deployment](..Screenshots/27-kubernetes-namespace-deployment.png)
+![Kubernetes Namespace Deployment](../Screenshots/27-kubernetes-namespace-deployment.png)
 
 The workloads in the `default` and `dev` namespaces were checked separately to demonstrate logical workload separation.
 
 ### Namespace Isolation Proof
 
-![Kubernetes Namespace Isolation](..Screenshots/28-kubernetes-namespace-isolation.png)
+![Kubernetes Namespace Isolation](../Screenshots/28-kubernetes-namespace-isolation.png)
 
 ---
 
@@ -24,13 +24,13 @@ The Dashboard was opened locally and used to view the deployed workloads.
 
 ### Dashboard Workloads Proof
 
-![Kubernetes Dashboard Workloads](..Screenshots/29-kubernetes-dashboard-workloads.png)
+![Kubernetes Dashboard Workloads](../Screenshots/29-kubernetes-dashboard-workloads.png)
 
 The Dashboard was also used to inspect Pods and ReplicaSets associated with the Kubernetes deployment.
 
 ### Dashboard Pods and ReplicaSets Proof
 
-![Kubernetes Dashboard Pods and ReplicaSets](..Screenshots/30-kubernetes-dashboard-pods-replicas.png)
+![Kubernetes Dashboard Pods and ReplicaSets](../Screenshots/30-kubernetes-dashboard-pods-replicas.png)
 
 ### Result
 
