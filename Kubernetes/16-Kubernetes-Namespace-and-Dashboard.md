@@ -30,7 +30,7 @@ The Dashboard was also used to inspect Pods and ReplicaSets associated with the 
 
 ### Dashboard Pods and ReplicaSets Proof
 
-![Kubernetes Dashboard Pods and ReplicaSets](,,Screenshots/30-kubernetes-dashboard-pods-replicas.png)
+![Kubernetes Dashboard Pods and ReplicaSets](..Screenshots/30-kubernetes-dashboard-pods-replicas.png)
 
 ### Result
 
